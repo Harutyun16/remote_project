@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\im\desktop\abo\project1\project1\source.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  LINK : C:\Users\im\Desktop\abo\Project1\Debug\Project1.exe not found or not built by the last incremental link; performing full link
+  Project1.vcxproj -> C:\Users\im\Desktop\abo\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\im\Desktop\abo\Project1\Debug\Project1.pdb (Partial PDB)
